@@ -1,0 +1,24 @@
+{
+  "development": {
+    "username": "root",
+    "password": "mypassword",
+    "database": "tutorialdb",
+    "host": "localhost",
+    "port": "33061",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "mypassword",
+    "database": "database_test",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "mypassword",
+    "database": "database_production",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
